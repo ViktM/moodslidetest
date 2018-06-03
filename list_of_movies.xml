@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programme_list>
+    <programme id="1">
+        <name>The Princess and the Frog</name>
+        <image>view/pictures/theprincessandthefrog.jpg</image>
+        <mood1>1</mood1>
+        <mood2>5</mood2>
+        <mood3>2</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="2">
+        <name>The Emperor's New Groove</name>
+        <image>view/pictures/theemperorsnewgroove.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>1</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="3">
+        <name>101 Dalmatian</name>
+        <image>view/pictures/101dalmatian.jpg</image>
+        <mood1>1</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="4">
+        <name>Aladdin</name>
+        <image>view/pictures/aladdin.jpg</image>
+        <mood1>2</mood1>
+        <mood2>5</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="5">
+        <name>The Lion King</name>
+        <image>view/pictures/thelionking.jpg</image>
+        <mood1>1</mood1>
+        <mood2>5</mood2>
+        <mood3>1</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="6">
+        <name>Cruel Intentions</name>
+        <image>view/pictures/cruelintentions.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="7">
+        <name>The Butterfly Effect</name>
+        <image>view/pictures/thebutterflyeffect.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="8">
+        <name>Hannibal Rising</name>
+        <image>view/pictures/hannibalrising.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>5</mood4>
+    </programme>
+    <programme id="9">
+        <name>The Danish Girl</name>
+        <image>view/pictures/thedanishgirl.jpg</image>
+        <mood1>5</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="10">
+        <name>The Imitation Game</name>
+        <image>view/pictures/theimitationgame.jpg</image>
+        <mood1>5</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="11">
+        <name>The Da Vinci Code</name>
+        <image>view/pictures/thedavincicode.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>5</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="12">
+        <name>The Jungle Book</name>
+        <image>view/pictures/thejunglebook.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="13">
+        <name>The Giver</name>
+        <image>view/pictures/thegiver.jpg</image>
+        <mood1>4</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="14">
+        <name>The Notebook</name>
+        <image>view/pictures/thenotebook.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="15">
+        <name>Still Alice</name>
+        <image>view/pictures/stillalice.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="16">
+        <name>The Beauty and the Beast</name>
+        <image>view/pictures/thebeautyandthebeast.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+       </programme>
+    <programme id="17">
+        <name>The Pursuit of Happiness</name>
+        <image>view/pictures/thepursuitofhappiness.jpg</image>
+        <mood1>1</mood1>
+        <mood2>5</mood2>
+        <mood3>4</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="18">
+        <name>The Pirates of the Caribbean</name>
+        <image>view/pictures/thepiratesofthecaribbean.jpg</image>
+        <mood1>2</mood1>
+        <mood2>5</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="19">
+        <name>Me before You</name>
+        <image>view/pictures/mebeforeyou.jpg</image>
+        <mood1></mood1>
+        <mood2></mood2>
+        <mood3></mood3>
+        <mood4></mood4>
+    </programme>
+    <programme id="20">
+        <name>Inside out</name>
+        <image>view/pictures/insideout.jpg</image>
+        <mood1>1</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="21">
+        <name>Harry Potter Septology</name>
+        <image>view/pictures/harrypotterseptology.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="22">
+        <name>The Lord of the Rings Triology</name>
+        <image>view/pictures/thelordoftheringstriology.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>2</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="23">
+        <name>The Hobbit Trology</name>
+        <image>view/pictures/thehobbittrology.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>2</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="24">
+        <name>Star Wars Collection</name>
+        <image>view/pictures/starwarscollection.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="25">
+        <name>Narnia Collection</name>
+        <image>view/pictures/narniacollection.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>2</mood4>
+    </programme>
+    <programme id="26">
+        <name>Armageddon</name>
+        <image>view/pictures/armageddon.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>5</mood4>
+    </programme>
+    <programme id="27">
+        <name>The Beach</name>
+        <image>view/pictures/thebeach.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="28">
+        <name>Django unchained</name>
+        <image>view/pictures/djangounchained.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="29">
+        <name>The Wolf of Wallstreet</name>
+        <image>view/pictures/thewolfofwallstreet.jpg</image>
+        <mood1>4</mood1>
+        <mood2>4</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="30">
+        <name>Lion</name>
+        <image>view/pictures/lion.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="31">
+        <name>Friends collection</name>
+        <image>view/pictures/friends.jpg</image>
+        <mood1>1</mood1>
+        <mood2>5</mood2>
+        <mood3>1</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="32">
+        <name>How I met your mother collection</name>
+        <image>view/pictures/howimetyourmother.jpg</image>
+        <mood1>2</mood1>
+        <mood2>5</mood2>
+        <mood3>1</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="33">
+        <name>The Guardian of the Glaxy</name>
+        <image>view/pictures/theguardianofthegalaxy.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="34">
+        <name>Tarzan</name>
+        <image>view/pictures/tarzan.jpg</image>
+        <mood1>2</mood1>
+        <mood2>4</mood2>
+        <mood3>2</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="35">
+        <name>Mulan</name>
+        <image>view/pictures/mulan.jpg</image>
+        <mood1>1</mood1>
+        <mood2>4</mood2>
+        <mood3>1</mood3>
+        <mood4>1</mood4>
+    </programme>
+    <programme id="36">
+        <name>Alien Vs. Predator</name>
+        <image>view/pictures/alienvspredator.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>4</mood3>
+        <mood4>5</mood4>
+    </programme>
+    <programme id="37">
+        <name>Avengers</name>
+        <image>view/pictures/avengers.jpg</image>
+        <mood1>2</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+    <programme id="38">
+        <name>The Ring</name>
+        <image>view/pictures/thering.jpg</image>
+        <mood1>5</mood1>
+        <mood2>1</mood2>
+        <mood3>5</mood3>
+        <mood4>5</mood4>
+    </programme>
+    <programme id="39">
+        <name>Spiderman</name>
+        <image>view/pictures/spiderman.jpg</image>
+        <mood1>4</mood1>
+        <mood2>1</mood2>
+        <mood3>4</mood3>
+        <mood4>5</mood4>
+    </programme>
+    <programme id="40">
+        <name>The Dark Knight</name>
+        <image>view/pictures/thedarkknight.jpg</image>
+        <mood1>4</mood1>
+        <mood2>2</mood2>
+        <mood3>4</mood3>
+        <mood4>4</mood4>
+    </programme>
+
+</programme_list>

@@ -24,8 +24,9 @@ function search_mood($key, $value) {
     
     foreach ($sql->fetchAll() as $programmes): ?>
 
-<div class="col-md-2" ><h4><?php echo $programmes['programme_name'];?></h4>
+<div class="col-md-2" >
         <img src="<?php echo $programmes['image']?>" alt="image: <?php echo $programmes['programme_name'];?>" height="320" width="180"/>
+        <h4><?php echo $programmes['programme_name'];?></h4>
 </div>
 
 

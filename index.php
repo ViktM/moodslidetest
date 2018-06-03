@@ -1,11 +1,11 @@
+<?php
 
+ //  IDEX PAGE - Requires all elemets of the WEB APP start page - header, sliders and footer  
 
-<?php //  IDEX PAGE - Requires all elemets of the WEB APP start page - header, sliders and footer     ?>
+ require 'view/header.php';     
 
-<?php require 'view/header.php'; ?>      
+require 'view/sliders.php';  
 
-<?php require 'view/sliders.php'; ?>   
-
-<?php require 'view/footer.php'; ?>
+require 'view/footer.php'; 
        
 
