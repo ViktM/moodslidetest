@@ -1,0 +1,110 @@
+
+
+/* Style for header */
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: silver;
+    border-radius: 6px 6px 0px 0px;
+    margin-left:10px;  
+    margin-right:10px;
+    height: 200px;
+}
+
+/* Style for Moodslider and Upload buttons */
+
+.col-sm-2{
+
+    margin-top: 20px;
+    margin-right:100px;
+    margin-left: 200px;
+    border-bottom: solid;
+
+
+}
+
+/* Style for SKY logo */
+
+.logo{
+
+    float: left;
+
+}
+
+/* Style for SKY CINEMA*/
+
+.title{
+
+
+    margin-right: 300px;
+    margin-left: 100px;
+
+
+}
+
+
+/* Style for the container of the sliders*/
+
+.container{
+
+    margin-top: 100px;
+
+}
+
+
+/* Style only for slider */
+
+.slider {
+
+
+    height: 25px;
+    background: silver;
+}
+
+
+/* Style for Data handling box*/
+
+.upload{
+    border: solid;
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+
+/* Style for text Data handling*/
+
+h3{
+    text-align: center;
+
+}
+
+
+/* Style for movie cards*/
+
+#cards {
+    margin-left: 300px;
+
+
+}
+
+
+/* Style for footer */
+
+#footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 30px;
+    text-align: center;
+    background: silver;
+    border-radius: 6px 6px 0px 0px;
+    margin-left:10px;  
+    margin-right:10px;
+    height: 50px;
+
+
+}
